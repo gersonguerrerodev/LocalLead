@@ -1,0 +1,17 @@
+.container-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid gray;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: fit-content;
+  padding: 20px 40px;
+}
+
+.input {
+  display: flex;
+  gap: 10px;
+}
